@@ -1,0 +1,247 @@
+Xsession: X session started for daniel at Thu  2 Mar 13:18:15 GMT 2017
+localuser:daniel being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+Xsession: X session started for daniel at Thu  2 Mar 13:31:30 GMT 2017
+localuser:daniel being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+Xsession: X session started for daniel at Thu  2 Mar 13:54:41 GMT 2017
+localuser:daniel being added to access control list
+** Message: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring/gpg:0:1
+Initializing caja-image-converter extension
+** Message: Initializing gksu extension...
+Initializing caja-open-terminal extension
+Initializing caja-main-menu extension
+
+** (mate-control-center:1767): WARNING **: store corruption [/usr/share/mate-control-center/applications.xbel] - multiple uris with same rank (0): [firefox.desktop] [file:///usr/share/applications/iceweasel.desktop], moving latter to 1
+
+** (mate-control-center:1767): WARNING **: store corruption [/usr/share/mate-control-center/applications.xbel] - multiple uris with same rank (1): [file:///usr/share/applications/iceweasel.desktop] [evolution.desktop], moving latter to 2
+
+** (mate-control-center:1767): WARNING **: store corruption [/usr/share/mate-control-center/applications.xbel] - multiple uris with same rank (2): [evolution.desktop] [banshee-1.desktop], moving latter to 3
+
+** (mate-control-center:1767): WARNING **: store corruption [/usr/share/mate-control-center/applications.xbel] - multiple uris with same rank (3): [banshee-1.desktop] [writer.desktop], moving latter to 4
+
+** (mate-control-center:1767): WARNING **: store corruption [/usr/share/mate-control-center/applications.xbel] - multiple uris with same rank (4): [writer.desktop] [f-spot.desktop], moving latter to 5
+
+** (mate-control-center:1767): WARNING **: store corruption [/usr/share/mate-control-center/applications.xbel] - multiple uris with same rank (5): [f-spot.desktop] [file:///usr/share/applications/caja-browser.desktop], moving latter to 6
+
+(mate-control-center:1767): GLib-GIO-WARNING **: Missing callback called fullpath = /home/daniel/.local/share/mate-control-center/applications.xbel
+
+Window manager warning: Log level 8: Source ID 179 was not found when attempting to remove it
+/usr/share/themes/shearwater/gtk-2.0/gtkrc:339: Unable to locate image file in pixmap_path: "panel-bg-dark.png"
+I/O error : No such file or directory
+I/O error : No such file or directory
+[1813:1868:0302/135731:ERROR:gcm_store_impl.cc(929)] Failed to restore security token.
+[1862:1862:0302/135735:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/135737:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/135744:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/135745:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/135751:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[97:97:0302/140234:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[97:97:0302/140235:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[97:97:0302/140235:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[97:97:0302/140236:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[97:97:0302/140236:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1813:1813:0302/140237:ERROR:CONSOLE(1)] "Uncaught ReferenceError: inline is not defined", source:  (1)
+Window manager warning: Log level 8: Source ID 1463 was not found when attempting to remove it
+[224:224:0302/140606:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/140609:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/140609:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/140610:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/140610:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/140617:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1862:1862:0302/140624:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1813:1813:0302/140720:ERROR:CONSOLE(73)] "Uncaught TypeError: Cannot read property 'addExtensions' of undefined", source: devtools_compatibility.js (73)
+[1862:1862:0302/140721:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+Window manager warning: Log level 8: Source ID 1916 was not found when attempting to remove it
+Window manager warning: Log level 8: Source ID 1920 was not found when attempting to remove it
+Window manager warning: Log level 8: Source ID 1937 was not found when attempting to remove it
+Window manager warning: Log level 8: Source ID 2304 was not found when attempting to remove it
+Window manager warning: Log level 8: Source ID 6220 was not found when attempting to remove it
+[1813:1813:0302/141306:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 92
+[224:224:0302/142046:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/142119:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/142119:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/142119:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/142121:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/142121:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Window manager warning: last_focus_time (1488464647) is greater than comparison timestamp (1817783).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Window manager warning: last_user_time (1488464647) is greater than comparison timestamp (1817783).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Window manager warning: 0x3200003 (Control Ce) appears to be one of the offending windows with a timestamp of 1488464647.  Working around...
+
+(mate-about-me:3707): about-me-properties-WARNING **: Could not load /home/daniel/.face: Failed to open file '/home/daniel/.face': No such file or directory
+
+(mate-about-me:3709): about-me-properties-WARNING **: Could not load /home/daniel/.face: Failed to open file '/home/daniel/.face': No such file or directory
+Window manager warning: Log level 8: Source ID 24398 was not found when attempting to remove it
+
+(mate-keybinding-properties:3712): GLib-GObject-CRITICAL **: Object class EggCellEditableEventBox doesn't implement property 'editing-canceled' from interface 'GtkCellEditable'
+[1813:1813:0302/142721:ERROR:CONSOLE(73)] "Uncaught TypeError: Cannot read property 'addExtensions' of undefined", source: devtools_compatibility.js (73)
+[1862:1862:0302/142722:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+Window manager warning: Log level 8: Source ID 32362 was not found when attempting to remove it
+Window manager warning: Log level 8: Source ID 39130 was not found when attempting to remove it
+[1813:1813:0302/143727:ERROR:CONSOLE(1588)] "TypeError: Cannot read property '_decoratorExtensions' of null TypeError: Cannot read property '_decoratorExtensions' of null
+    at WebInspector.ElementsTreeElement.updateDecorations (chrome-devtools://devtools/bundled/elements/elements_module.js:384:28)
+    at WebInspector.ElementsTreeElement.updateTitle (chrome-devtools://devtools/bundled/elements/elements_module.js:378:155)
+    at WebInspector.ElementsTreeElement.onattach (chrome-devtools://devtools/bundled/elements/elements_module.js:235:6)
+    at WebInspector.ElementsTreeElement.insertChild (chrome-devtools://devtools/bundled/inspector.js:1978:50)
+    at WebInspector.ElementsTreeOutline.insertChildElement (chrome-devtools://devtools/bundled/elements/elements_module.js:702:78)
+    at WebInspector.ElementsTreeOutline._innerUpdateChildren (chrome-devtools://devtools/bundled/elements/elements_module.js:711:332)
+    at WebInspector.ElementsTreeOutline.childNodesLoaded (chrome-devtools://devtools/bundled/elements/elements_module.js:701:13)
+    at WebInspector.DOMNode.mycallback (chrome-devtools://devtools/bundled/inspector.js:5628:1)
+    at callback (chrome-devtools://devtools/bundled/inspector.js:4588:39)
+    at Object.dispatchResponse (chrome-devtools://devtools/bundled/inspector.js:4595:10)", source: chrome-devtools://devtools/bundled/inspector.js (1588)
+[224:224:0302/143837:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/143839:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/143839:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/143839:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/143840:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/143840:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/143841:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/143841:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/143841:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/143842:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/143842:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1813:1813:0302/144126:ERROR:CONSOLE(1588)] "TypeError: Cannot read property 'isXMLMimeType' of null TypeError: Cannot read property 'isXMLMimeType' of null
+    at WebInspector.ElementsTreeElement._nodeTitleInfo (chrome-devtools://devtools/bundled/elements/elements_module.js:434:20)
+    at WebInspector.ElementsTreeElement.updateTitle (chrome-devtools://devtools/bundled/elements/elements_module.js:373:87)
+    at WebInspector.ElementsTreeElement.onattach (chrome-devtools://devtools/bundled/elements/elements_module.js:235:6)
+    at WebInspector.ElementsTreeElement.insertChild (chrome-devtools://devtools/bundled/inspector.js:1978:50)
+    at WebInspector.ElementsTreeOutline.insertChildElement (chrome-devtools://devtools/bundled/elements/elements_module.js:702:78)
+    at WebInspector.ElementsTreeOutline._innerUpdateChildren (chrome-devtools://devtools/bundled/elements/elements_module.js:711:332)
+    at WebInspector.ElementsTreeOutline.childNodesLoaded (chrome-devtools://devtools/bundled/elements/elements_module.js:701:13)
+    at WebInspector.DOMNode.mycallback (chrome-devtools://devtools/bundled/inspector.js:5628:1)
+    at callback (chrome-devtools://devtools/bundled/inspector.js:4588:39)
+    at Object.dispatchResponse (chrome-devtools://devtools/bundled/inspector.js:4595:10)", source: chrome-devtools://devtools/bundled/inspector.js (1588)
+[1862:1862:0302/144140:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+/usr/share/themes/shearwater/gtk-2.0/gtkrc:339: Unable to locate image file in pixmap_path: "panel-bg-dark.png"
+Window manager warning: Log level 8: Source ID 49098 was not found when attempting to remove it
+[1862:1862:0302/144231:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/144336:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/144407:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+A Parser-blocking, cross-origin script, https://api.viglink.com/api/click?format=jsonp&jsonp=callback&key=f33f208bd7d94bed0a23fe052ea3ba17&libId=izsi2w530100ohp6000DL4h215vp8&loc=https%3A%2F%2Fwww.maketecheasier.com%2F9-great-mate-themes-linux%2F&v=1&out=http%3A%2F%2Fgnome-look.org%2Fcontent%2Fshow.php%2FElegant%2BGnome%2BPack%3Fcontent%3D127826&ref=https%3A%2F%2Fwww.google.co.uk%2F&title=9%20Great%20Mate%20Themes%20%5BLinux%5D%20-%20Make%20Tech%20Easier&txt=Elegant%20Gnome%20Pack, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://api.viglink.com/api/click?format=jsonp&jsonp=callback&key=f33f208bd7d94bed0a23fe052ea3ba17&libId=izsi2w530100ohp6000DL4h215vp8&loc=https%3A%2F%2Fwww.maketecheasier.com%2F9-great-mate-themes-linux%2F&v=1&out=http%3A%2F%2Fgnome-look.org%2Fcontent%2Fshow.php%2FElegant%2BGnome%2BPack%3Fcontent%3D127826&ref=https%3A%2F%2Fwww.google.co.uk%2F&title=9%20Great%20Mate%20Themes%20%5BLinux%5D%20-%20Make%20Tech%20Easier&txt=Elegant%20Gnome%20Pack, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+Window manager warning: Log level 8: Source ID 54950 was not found when attempting to remove it
+A Parser-blocking, cross-origin script, http://contextual.media.net/fcmdynet.js?&cid=8CUQ3B45F&cpcd=XiLVwVJ3Y8fsJH8nyCClyw%3D%3D&crid=533578516&size=160x600&cc=GB&vif=1&requrl=http%3A%2F%2Fwww.webupd8.org%2F2010%2F08%2Felegant-gnome-theme-pack-ppa-for-ubuntu.html&kwrf=http%3A%2F%2Fwww.google.co.uk&nse=3&vi=1488465924738516511&lw=1&ugd=4&re=1&hlt=1&dfp=1&rtbs=1, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, http://contextual.media.net/fcmdynet.js?&cid=8CUQ3B45F&cpcd=XiLVwVJ3Y8fsJH8nyCClyw%3D%3D&crid=533578516&size=160x600&cc=GB&vif=1&requrl=http%3A%2F%2Fwww.webupd8.org%2F2010%2F08%2Felegant-gnome-theme-pack-ppa-for-ubuntu.html&kwrf=http%3A%2F%2Fwww.google.co.uk&nse=3&vi=1488465924738516511&lw=1&ugd=4&re=1&hlt=1&dfp=1&rtbs=1, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, http://contextual.media.net/fcmdynet.js?&cid=8CUQ3B45F&cpcd=XiLVwVJ3Y8fsJH8nyCClyw%3D%3D&crid=582759592&size=300x250&cc=GB&vif=1&requrl=http%3A%2F%2Fwww.webupd8.org%2F2010%2F08%2Felegant-gnome-theme-pack-ppa-for-ubuntu.html&kwrf=http%3A%2F%2Fwww.google.co.uk&nse=3&vi=1488465924412273407&lw=1&ugd=4&re=1&hlt=1&dfp=1&rtbs=1, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, http://contextual.media.net/fcmdynet.js?&cid=8CUQ3B45F&cpcd=XiLVwVJ3Y8fsJH8nyCClyw%3D%3D&crid=582759592&size=300x250&cc=GB&vif=1&requrl=http%3A%2F%2Fwww.webupd8.org%2F2010%2F08%2Felegant-gnome-theme-pack-ppa-for-ubuntu.html&kwrf=http%3A%2F%2Fwww.google.co.uk&nse=3&vi=1488465924412273407&lw=1&ugd=4&re=1&hlt=1&dfp=1&rtbs=1, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, http://www.statcounter.com/counter/counter_xhtml.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, http://www.statcounter.com/counter/counter_xhtml.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[1862:1862:0302/144643:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+A Parser-blocking, cross-origin script, http://www.google-analytics.com/ga.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, http://www.google-analytics.com/ga.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[1862:1862:0302/144726:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+Created new window in existing browser session.
+A Parser-blocking, cross-origin script, http://ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, http://ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[1862:1862:0302/144937:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+A Parser-blocking, cross-origin script, http://ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, http://ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[1862:1862:0302/145119:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/145206:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/145302:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1813:1813:0302/145303:ERROR:CONSOLE(1588)] "TypeError: Cannot read property '_decoratorExtensions' of null TypeError: Cannot read property '_decoratorExtensions' of null
+    at WebInspector.ElementsTreeElement.updateDecorations (chrome-devtools://devtools/bundled/elements/elements_module.js:384:28)
+    at WebInspector.ElementsTreeElement.updateTitle (chrome-devtools://devtools/bundled/elements/elements_module.js:378:155)
+    at WebInspector.ElementsTreeElement.onattach (chrome-devtools://devtools/bundled/elements/elements_module.js:235:6)
+    at WebInspector.ElementsTreeElement.insertChild (chrome-devtools://devtools/bundled/inspector.js:1978:50)
+    at WebInspector.ElementsTreeOutline.insertChildElement (chrome-devtools://devtools/bundled/elements/elements_module.js:702:78)
+    at WebInspector.ElementsTreeOutline._innerUpdateChildren (chrome-devtools://devtools/bundled/elements/elements_module.js:711:332)
+    at WebInspector.ElementsTreeOutline.childNodesLoaded (chrome-devtools://devtools/bundled/elements/elements_module.js:701:13)
+    at WebInspector.DOMNode.mycallback (chrome-devtools://devtools/bundled/inspector.js:5628:1)
+    at callback (chrome-devtools://devtools/bundled/inspector.js:4588:39)
+    at Object.dispatchResponse (chrome-devtools://devtools/bundled/inspector.js:4595:10)", source: chrome-devtools://devtools/bundled/inspector.js (1588)
+[1862:1862:0302/145303:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/145321:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/145512:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/145514:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/145515:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/145515:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/145517:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/145538:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[224:224:0302/145543:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/145556:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/145620:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/145629:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/145630:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/145631:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/145647:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/145647:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1813:1813:0302/150050:ERROR:CONSOLE(1588)] "TypeError: Cannot read property 'isXMLMimeType' of null TypeError: Cannot read property 'isXMLMimeType' of null
+    at WebInspector.ElementsTreeElement._nodeTitleInfo (chrome-devtools://devtools/bundled/elements/elements_module.js:434:20)
+    at WebInspector.ElementsTreeElement.updateTitle (chrome-devtools://devtools/bundled/elements/elements_module.js:373:87)
+    at WebInspector.ElementsTreeElement.onattach (chrome-devtools://devtools/bundled/elements/elements_module.js:235:6)
+    at WebInspector.ElementsTreeElement.insertChild (chrome-devtools://devtools/bundled/inspector.js:1978:50)
+    at WebInspector.ElementsTreeOutline.insertChildElement (chrome-devtools://devtools/bundled/elements/elements_module.js:702:78)
+    at WebInspector.ElementsTreeOutline._innerUpdateChildren (chrome-devtools://devtools/bundled/elements/elements_module.js:711:332)
+    at WebInspector.ElementsTreeOutline.childNodesLoaded (chrome-devtools://devtools/bundled/elements/elements_module.js:701:13)
+    at WebInspector.DOMNode.mycallback (chrome-devtools://devtools/bundled/inspector.js:5628:1)
+    at callback (chrome-devtools://devtools/bundled/inspector.js:4588:39)
+    at Object.dispatchResponse (chrome-devtools://devtools/bundled/inspector.js:4595:10)", source: chrome-devtools://devtools/bundled/inspector.js (1588)
+[224:224:0302/150057:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150100:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150100:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150101:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150101:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150102:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150102:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150102:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150103:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150103:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150104:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150104:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150104:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150105:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150105:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150107:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150109:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150109:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150109:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150110:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150110:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150111:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150112:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150112:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150112:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[224:224:0302/150113:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Caja-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/cache/samba/lck: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Caja-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/cache/samba/lck: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(caja:1647): MateDesktop-CRITICAL **: size_prepared_cb: assertion 'width > 0 && height > 0' failed
+Caja-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/cache/samba/lck: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+[1862:1862:0302/151338:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/151552:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/151606:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+
+(caja:1647): MateDesktop-CRITICAL **: size_prepared_cb: assertion 'width > 0 && height > 0' failed
+[1862:1862:0302/152030:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/152034:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/152150:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+Window manager warning: Log level 8: Source ID 87203 was not found when attempting to remove it
+[1862:1862:0302/152503:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/152539:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/152540:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/152542:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1862:1862:0302/152543:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[1813:1813:0302/152545:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 502
+[1862:1862:0302/152848:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+Window manager warning: Log level 8: Source ID 97099 was not found when attempting to remove it
+[1862:1862:0302/155455:ERROR:sync_control_vsync_provider.cc(64)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.

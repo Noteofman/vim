@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/var/www/html/enable_customer_portal'
+let g:netrw_dirhist_2='/etc/rabbitmq'
+let g:netrw_dirhist_3='/var/www/html/git/enableit/custom/eit/javascript'
